@@ -1,0 +1,195 @@
+h1
+{
+color: aqua  ;
+}
+/*this is a external stylesheet*/
+
+span{
+    color: aquamarine;font-family: Arial, Helvetica, sans-serif;
+}
+#nav{
+    background-color: rgba(255, 0, 157, 0.885); height: 50px;
+}
+nav{
+    background-color: black;
+}
+.graph{
+    color: rgb(117, 31, 117) ;}
+table,tr,th,td{
+     border:2px solid black;border-collapse: collapse;
+     border-style:solid;
+
+}
+tr,td,th{
+    text-align: center;
+    padding: 19px;
+    color: rgb(12, 11, 11);
+    
+}
+#table2{
+    border:2px solid black;border-collapse:collapse;
+
+}
+img{
+    width: 200px;
+    range: round;
+   
+    
+}
+div{
+    background-color: rgb(16, 118, 0);
+}
+body{
+    background-image: url(images/jolu.jpeg);
+    background-repeat:repeat-y;
+    background-attachment: fixed;
+    
+   
+}
+h2{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    background-color: black;
+    color:red ;
+    border-radius: 90px;
+    text-align: center;
+}
+h5{
+    
+ border-style: solid;
+ border-width :20px 10px ;
+ border-color: pink blueviolet yellowgreen red;
+ border-radius: 30px;
+ margin-bottom: 100px;
+ padding: 30px 40px 30px 50px;
+ text-align: center;
+ text-decoration: line-through;
+ text-transform: capitalize;
+ text-shadow: 1px 2px 3px purple;
+ font:italic 90px arial ;
+
+ 
+
+}
+.mee{
+    
+    letter-spacing: 2px;
+    
+    line-height: 3;
+    word-spacing: 5px;
+padding-right: 80px;
+text-align: right;
+text-indent: 200px;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-size: 40px;
+font-style:italic ;
+
+}
+h4{
+    font: italic  bold  30px arial 
+}
+.fa-pizza-slice{
+    color:yellow;
+    background-color: green;
+    font-size: 60px;
+    padding:10px;
+
+    
+}
+#bot{
+    font-style: italic bold;
+    color:  rgb(24, 49, 83);
+
+}
+#tom{
+    text-decoration:none ;
+    background-color: black;
+    color:white;
+    padding: 15px 15px;
+    width: 50%;
+    margin-top : 30px;
+    font-size: 24px;
+    border-style: solid;
+    border-color: pink;
+    
+
+}
+#tom:hover{
+    background-color:green;
+    color: black;
+}
+#boo{
+    color: rgb(21, 215, 215);
+    font-size: 30px;
+}
+#bee{
+    border-style:solid;
+    border-radius: 30px;
+    border-color: black;
+    
+    background-color: rgb(121, 92, 17);
+    font: italic arial 39px;
+    text-decoration: none;
+    padding: 10px 10px ;
+}
+#bee:hover{
+    background-color:  green;
+    color: black;
+}
+#bae{
+    color: yellowgreen;
+    font-size: 20px;
+    font-style: italic ;
+    font-family: 'Times New Roman', Times, serif bold;
+}
+#be{
+    border:dotted;
+    border-width: 6px;
+    padding: 10px 15px;
+    margin-bottom: 50px;
+    background-color: black;
+    color:white ;
+    font-size: 15px;
+}
+#be:hover{
+    background-color: green;
+    color: black;
+}
+.fa-solid{
+    color: yellowgreen;
+    font-size: 15px;
+
+
+}
+ul{
+    list-style-type:decimal;
+}
+ol{
+    list-style: upper-roman;
+}
+
+    
+#bt{
+    list-style-image: url(images/star.jpeg);
+    list-style-position: inside;
+}
+#bls tr td {
+    border:solid;
+    
+    border-width:5px; 
+    color:rgb(222, 215, 215);
+    
+
+}
+#bls{
+    border-collapse: separate;
+    border-style: none;
+    border-spacing:10px;
+
+
+}
+
+   
+   
+
+
